@@ -1,6 +1,10 @@
-anaconda_projects
-__pycache__
-.ipynb_checkpoints
-.vscode
-klatki_animacji
+anaconda_projects/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+klatki_animacji/
 najlepsza_historia2.geojson
+augmented/
+dataset-resized/
+val_augmented/
+dataset-resized.zip
