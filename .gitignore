@@ -8,3 +8,4 @@ augmented/
 dataset-resized/
 val_augmented/
 dataset-resized.zip
+history.json
